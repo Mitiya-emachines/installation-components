@@ -3,13 +3,13 @@
 
 ## wget 'link'
 
-## install
+## install ->
 ## sudo dpkg -i 'name_package'
 
-## remove
+## remove ->
 ## sudo dpkg -r 'name_package'
 
-
+#
 # google chrome
 https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
