@@ -1,13 +1,13 @@
 # installation-components
-# installation components when you reinstall linux
+## installation components when you reinstall linux
 
-# wget 'link'
+## wget 'link'
 
 ## install
-# sudo dpkg -i 'name_package'
+## sudo dpkg -i 'name_package'
 
 ## remove
-# sudo dpkg -r 'name_package'
+## sudo dpkg -r 'name_package'
 
 
 # google chrome
