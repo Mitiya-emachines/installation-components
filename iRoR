@@ -76,3 +76,8 @@ cd myapp
 rake db:create
 
 rails server
+
+
+
+//* install RubyGems
+https://rubygems.org/pages/download
