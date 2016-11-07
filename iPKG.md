@@ -24,3 +24,8 @@ http://download.cdn.viber.com/cdn/desktop/Linux/viber.deb
 
 # virtualbox
 http://download.virtualbox.org/virtualbox/5.1.2/virtualbox-5.1_5.1.2-108956~Ubuntu~xenial_amd64.deb
+
+
+# vagrant
+## the tutorial on the vagrant
+http://eax.me/vagrant/
